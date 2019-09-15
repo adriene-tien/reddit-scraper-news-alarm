@@ -26,7 +26,7 @@ def runAlarm():
     return
 
 
-schedule.every().day.at("07:45").do(runAlarm())
+schedule.every().day.at("07:45").do(runAlarm)
 
 while True:
     schedule.run_pending()
