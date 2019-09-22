@@ -3,4 +3,3 @@ A Reddit scraper text-to-speech program that follows news subreddits, triggering
 
 Need to run in the background: ``` nohup python3 NewsReader.py & ```
 
-# Next Steps 
